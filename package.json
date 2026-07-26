@@ -1,0 +1,13 @@
+{
+  "name": "support-tickets",
+  "version": "1.0.0",
+  "description": "API de gerenciamentos de tickets de suporte",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [],
+  "author": "Luiz Felipe da Silva Pinto",
+  "license": "ISC",
+  "type": "module"
+}
